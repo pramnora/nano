@@ -1,0 +1,2 @@
+# nano
+Linux editor: Nano
