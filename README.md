@@ -8,7 +8,7 @@ Linux editor: Nano
 
 ## Introduction
 
-Nano, is a fairly simple and easy to use text editor;  
+Nano, is a fairly straight forwards, simple and easy to use text editor;  
 especially, when compared to using far more 'complex' text editors such as: Vim/Emacs/-etc.  
 
 However, like many editors...it does have a number of 'hidden' features  
